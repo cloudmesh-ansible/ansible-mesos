@@ -1,0 +1,15 @@
+[zookeeper]
+zk0 ansible_ssh_host=149.165.158.203
+
+[mesos_master]
+mm0 ansible_ssh_host=149.165.158.203
+
+[marathon]
+mr0 ansible_ssh_host=149.165.158.203
+
+[chronos]
+ch0 ansible_ssh_host=149.165.158.203
+
+[mesos_slave]
+ms0 ansible_ssh_host=149.165.159.203
+
